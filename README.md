@@ -34,7 +34,7 @@ pip install opencv-python
 3. Run the main script:
 
 ```bash
-python finger_counting.py
+python fingercounter.py
 ```
 
 4. Use your webcam to interact with the program and see the finger counting in action.
@@ -45,12 +45,9 @@ You can customize the overlay images in the `fingerImage` folder to change the v
 
 ### Author
 
-[Your Name]
+[vikasm7146@gmail.com]
 
 ### Acknowledgments
 
-This project utilizes a custom hand tracking module developed by [author of handtrackingmodule.py]. Special thanks to the creators of OpenCV for their contributions to computer vision.
+This project utilizes a custom hand tracking module developed by me . Special thanks to the creators of OpenCV for their contributions to computer vision and cvzone for the tutorial .
 
-### License
-
-This project is licensed under the [MIT License](LICENSE).
