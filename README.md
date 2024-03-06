@@ -1,6 +1,6 @@
 # Finger Counting with Computer Vision & Handtracking
 
-![Hand Tracking for Volume Control](Screenshot2024-03-06211903.png)
+![finger counter](Screenshot2024-03-06211903.png)
 
 
 This Python project utilizes hand tracking and overlay images to count the number of extended fingers in real-time using a webcam. It employs OpenCV and a custom hand tracking module to detect hand landmarks and determine the finger positions. Based on the number of extended fingers, the program overlays corresponding images onto the webcam feed.
