@@ -52,5 +52,5 @@ You can customize the overlay images in the `fingerImage` folder to change the v
 
 ### Acknowledgments
 
-This project utilizes a custom hand tracking module developed by me . Special thanks to the creators of OpenCV for their contributions to computer vision and cvzone for the tutorial .
+This project utilizes a custom hand tracking module developed by me . Special thanks to the creators of OpenCV for their contributions to computer vision and cvzone for the tutorial 
 
